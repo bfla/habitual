@@ -1,4 +1,7 @@
-// ddpClient = require('ddp')
+// import React, {
+//   AsyncStorage
+// } from 'react-native';
+// ddpClient = require('./ddp-client')
 
 // // User Accounts
 // function login() {
