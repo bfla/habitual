@@ -1,3 +1,5 @@
+// Probably going to use this instead: react-native-meteor
+
 // var DDPClient = require("ddp");
 
 // var ddpClient = new DDPClient({
@@ -15,7 +17,7 @@
 //   // (for load balancing and service discovery) 
 //   // do not use `path` option when you are using useSockJs 
 //   useSockJs: true
-//   // Use a full url instead of a set of `host`, `port` and `ssl` 
+//   // Use a full url instead of ga set of `host`, `port` and `ssl` 
 //   // do not set `useSockJs` option if `url` is used 
 //   // url: 'wss://example.com/websocket'
 // });
